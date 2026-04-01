@@ -44,11 +44,6 @@ Analyze passenger behavior to identify customer segments and support data-driven
 ## 📊 Dashboard
 (https://lookerstudio.google.com/s/kSJ6nT_Nyg0)
 
-## 📁 Project Structure
-- `data/` → dataset (or sample data)  
-- `analysis.ipynb` → data analysis and modeling    
-- `README.md` → project documentation  
-
 ## 🚀 Future Improvements
 - Add demographic or geographic data for deeper segmentation  
 - Implement advanced clustering methods (e.g., DBSCAN, Hierarchical Clustering)  
