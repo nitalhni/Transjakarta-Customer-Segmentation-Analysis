@@ -44,6 +44,9 @@ Analyze passenger behavior to identify customer segments and support data-driven
 ## 📊 Dashboard
 (https://lookerstudio.google.com/s/kSJ6nT_Nyg0)
 
+## 📌 Presentation
+https://docs.google.com/presentation/d/1zpGpMpPNWG-I0HOPFU-ikY6nhGRx2SyvP0_H_7397AU/edit?slide=id.p#slide=id.p
+
 ## 🚀 Future Improvements
 - Add demographic or geographic data for deeper segmentation  
 - Implement advanced clustering methods (e.g., DBSCAN, Hierarchical Clustering)  
